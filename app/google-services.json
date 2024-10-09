@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341150642890",
+    "project_id": "personalinfo-cf229",
+    "storage_bucket": "personalinfo-cf229.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341150642890:android:3a217781fa5d119f42fa33",
+        "android_client_info": {
+          "package_name": "com.example.personalinfo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzM5Wc_WuEjwg-ayy6-bLrhJ4dNQeRXk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
